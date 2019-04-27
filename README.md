@@ -8,7 +8,7 @@
 * [Contact](#contact)
 
 ## General info
-This is a small project made for the purpose of taking part in the recruitment process. The project's aim is to make a map and a list of pinned places.
+This is a small project made for the purpose of taking part in the recruitment process. The project's aim is to make a map and a list of pinned places. [Check it out!](https://veranikabarel.github.io/leaflet-map/) 
 
 ## Screenshots
 ![Example screenshot](#)
